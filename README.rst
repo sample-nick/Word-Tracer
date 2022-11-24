@@ -1,5 +1,5 @@
 ===================
-Well Come!
+Welcome!
 ===================
 
 Click here_ to see the Word Tracer's documentation!
