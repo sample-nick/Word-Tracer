@@ -3,3 +3,4 @@
 .venv/
 .token.txt
 
+sphinx/build/
